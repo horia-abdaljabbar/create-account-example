@@ -1,0 +1,74 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(7, 65, 65);
+    
+}
+
+.login_form{
+    background-color: rgb(255, 255, 255);
+    text-align:left;
+    width: 30%;
+    margin: auto;
+    height: 500px;
+    margin-top: 50px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.create_account{
+    text-transform: capitalize;
+    padding-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    color:rgb(93, 96, 99)
+}
+
+
+.login_form .half-width
+{
+    width:45%;
+    float: left;
+    margin-right: 20px;
+}
+.login_form label{
+    color: rgb(87, 158, 100);
+
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+.login_form .full-width{
+    width: 95%;
+    display: block;
+}
+
+.login_form .radio-section, .login_form .check-section
+{
+    float: left;
+    width:50%;
+    font-size: 12px;
+}
+
+
+.login_button{
+    width:15%;
+    height: 30px;
+    background-color: rgb(87, 158, 100);
+    margin-top: 80px;
+    float: right;
+    border-radius: 10px;
+    color: aliceblue;
+    text-transform: capitalize;
+}
+
+
+

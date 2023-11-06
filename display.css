@@ -1,0 +1,54 @@
+
+body{
+    background-color: rgb(243, 107, 191);
+}
+.all_sections
+{
+    background-color: rgb(44, 44, 96);
+    height:600px;
+}
+.navbar_section .navbar-list
+{
+    text-align: center;
+}
+.nav-item{
+    display: inline-block;
+    width: 10%;
+    color: rgb(253, 253, 253);
+
+}
+.nav-item-pink
+{
+    display: inline-block;
+    width: 10%;
+    color: rgb(243, 107, 191);
+}
+p{
+    color: rgb(253, 253, 253);
+}
+h3{
+    color: rgb(243, 107, 191);;
+}
+.form-section , .contact_info-section{
+    text-align: left;
+    display: inline-block;
+    width:48%;
+    height: 400px;   
+}
+.input{
+    display: inline-block;
+    width:40%;
+    height: 30px;
+}
+.input-message{
+width:81.5%;
+height:60px;
+}
+
+.submit-button
+{
+    color: rgb(253, 253, 253);
+    background-color: rgb(243, 107, 191) ;
+    text-align: center;
+    display: block;
+}
